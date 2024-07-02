@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940996181052",
+    "project_id": "senslinq-8c1d1",
+    "storage_bucket": "senslinq-8c1d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940996181052:android:17f5e223f6e1520a0ed739",
+        "android_client_info": {
+          "package_name": "com.example.senslinq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKCaLcZJTWu1kXePScQ5U0McP3HjE_DA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
